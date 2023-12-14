@@ -27,14 +27,45 @@ li {
     text-shadow: 2px 2px lightgray; 
     text-shadow: 2px 2px #E9E9E9;
 } */
-span {
+/* span {
     display: inline-block;
     margin: 20px;
     padding: 20px;
 }
-div {
+div { */
     /* display: inline; */
-    border: 2px solid crimson;
+    /* border: 2px solid crimson;
     margin: 20px;
     padding: 20px;
+} */
+
+
+
+/* p.error {
+    color: red;
+}
+p.success {
+    color: rgb(65, 201, 65);
+}
+p.success.feedback {
+    border: 1px dashed rgb(65, 201, 65);
+}
+div#content {
+    background-color: #ebebeb;
+    padding: 20px;
+} */
+/* div .error {
+    color: red;
+} */
+a[href*="thenetninja"] {
+    background-color: #3dd13d;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+a[href$=".com"] {
+    color: white;
+    background: red;
+    border: 2px solid blue;
 }
